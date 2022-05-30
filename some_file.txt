@@ -9,3 +9,11 @@ Hold your head up high
 жмем Shift-F4, вписываем имя файла как есть . gitignore , жмем Enter.
 открывается редактор, указанный в настройках Total Commander (какой-нибудь легковесный редактор с подсветкой синтаксиса, например)
 прописываем содержимое, жмем сохранить
+
+
+Gitignore как создать
+Git ignore file
+Gitignore node_modules
+Gitignore example
+Как добавить файл в гитигнор
+Gitignore Windows
